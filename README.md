@@ -23,16 +23,13 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 ### Examples
 
-- [File Navigator](https://github.com/DioxusLabs/file-explorer-example)
-- [TodoMVC](https://github.com/DioxusLabs/todomvc)
-- [Shopping Site](https://github.com/DioxusLabs/ecommerce-example)
-- [Bluetooth Scanner](http://github.com/DioxusLabs/bluetooth-scanner)
+- [File Navigator](https://github.com/DioxusLabs/example-projects/file-explorer-example)
+- [TodoMVC](https://github.com/DioxusLabs/example-projects/tree/master/todomvc)
+- [Shopping Site](https://github.com/DioxusLabs/example-projects/tree/master/ecommerce-site)
+- [WiFi Scanner](https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner)
 
+### Community 
 
-### State Management
-
-- [Recoil]()
-
-
-### Community Gallery
-
+- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks)
+- [Deploy Dioxus to Vercel](https://github.com/lucifer1004/dioxus-vercel-demo)
+- [NixOS installation script](https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc)
