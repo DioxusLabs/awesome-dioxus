@@ -7,7 +7,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 - [Community](#community)
 - [Examples](#examples)
 - [Libraries & Packages](#libraries--packages)
-  - [NetWork](#network)
+  - [Network](#network)
   - [Deployment & Installation](#deployment--installation)
 
 ---
@@ -27,7 +27,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 ## Libraries & Packages
 
-## NetWork
+## Network
 
 - [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks)
 
