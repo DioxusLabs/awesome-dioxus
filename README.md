@@ -8,6 +8,8 @@ A collection of awesome things regarding the Dioxus ecosystem.
 - [Examples](#examples)
 - [Libraries & Packages](#libraries--packages)
   - [Network](#network)
+  - [State Management](#state-management)
+  - [Event Call](#event-call)
   - [Deployment & Installation](#deployment--installation)
 
 ---
@@ -29,7 +31,15 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 ## Network
 
-- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks)
+- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks) : `Dioxus` hooks for `websocket` connections.
+
+## State Management
+
+- [Fermi](https://github.com/DioxusLabs/fermi) : global `state management` for `Dioxus` built on the concept of atoms.
+
+## Event Call
+
+- [Golde](https://github.com/mrxiaozhuox/golde) : use `Dioxus` to execute `Javascript` and get the result. 
 
 ## Deployment & Installation
 
