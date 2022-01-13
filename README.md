@@ -31,15 +31,15 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 ## Network
 
-- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks): `Dioxus` hooks for `websocket` connections.
+- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks) : `Dioxus` hooks for `websocket` connections.
 
 ## State Management
 
-- [Fermi](https://github.com/DioxusLabs/fermi): global `state management` for `Dioxus` built on the concept of atoms.
+- [Fermi](https://github.com/DioxusLabs/fermi) : global `state management` for `Dioxus` built on the concept of atoms.
 
 ## Event Call
 
-- [Golde](https://github.com/mrxiaozhuox/golde): use `Dioxus` to execute `Javascript` and get the result. 
+- [Golde](https://github.com/mrxiaozhuox/golde) : use `Dioxus` to execute `Javascript` and get the result. 
 
 ## Deployment & Installation
 
