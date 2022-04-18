@@ -7,6 +7,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 - [Community](#community)
 - [Examples](#examples)
 - [Libraries & Packages](#libraries--packages)
+  - [General](#general)
   - [Network](#network)
   - [State Management](#state-management)
   - [Event Call](#event-call)
@@ -28,6 +29,10 @@ A collection of awesome things regarding the Dioxus ecosystem.
 - [WiFi Scanner](https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner)
 
 ## Libraries & Packages
+
+## General
+
+- [dioxus-helmet](https://github.com/saicu/dioxus-helmet) : Place elements in the `<head></head>` of your document.
 
 ## Network
 
