@@ -40,7 +40,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 ## State Management
 
-- [Fermi](https://github.com/DioxusLabs/fermi) : global `state management` for `Dioxus` built on the concept of atoms.
+- [Fermi](https://dioxuslabs.com/guide/state/fermi.html) : global `state management` for `Dioxus` built on the concept of atoms.
 
 ## Event Call
 
