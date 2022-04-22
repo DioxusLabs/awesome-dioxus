@@ -33,6 +33,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 ## General
 
 - [dioxus-helmet](https://github.com/saicu/dioxus-helmet) : Place elements in the `<head></head>` of your document.
+- [dioxus-layout](https://gitlab.com/MAlrusayni/dioxus-layout) : Layouts components for Dioxus
 
 ## Network
 
