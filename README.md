@@ -34,6 +34,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 - [dioxus-helmet](https://github.com/saicu/dioxus-helmet) : Place elements in the `<head></head>` of your document.
 - [dioxus-layout](https://gitlab.com/MAlrusayni/dioxus-layout) : Layouts components for Dioxus
+- [dioxus-free-icons](https://github.com/nissy-dev/dioxus-free-icons) : Free icon components for Dioxus
 
 ## Network
 
