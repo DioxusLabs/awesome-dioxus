@@ -12,6 +12,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
   - [State Management](#state-management)
   - [Event Call](#event-call)
   - [Deployment & Installation](#deployment--installation)
+  - [Renderers](#renderers)
 
 ---
 
@@ -52,3 +53,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 
 - [Deploy Dioxus to Vercel](https://github.com/lucifer1004/dioxus-vercel-demo)
 - [NixOS installation script](https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc)
+
+## Renderers
+
+- [Freya](https://github.com/marc2332/freya): A Skia renderer for dioxus.
