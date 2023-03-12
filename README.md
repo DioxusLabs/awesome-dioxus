@@ -13,6 +13,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
   - [Event Call](#event-call)
   - [Deployment & Installation](#deployment--installation)
   - [Renderers](#renderers)
+- [Templates](#templates)
 
 ---
 
@@ -58,3 +59,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 ## Renderers
 
 - [Freya](https://github.com/marc2332/freya): A Skia renderer for dioxus.
+
+## Templates
+
+- [Rocket Backend](https://github.com/Qualitymix/Dioxus_RocketBackend): A template for creating an application using Rocket as a reactive backend.
