@@ -28,6 +28,7 @@ A collection of awesome things regarding the Dioxus ecosystem.
 - [TodoMVC](https://github.com/DioxusLabs/example-projects/tree/master/todomvc)
 - [Shopping Site](https://github.com/DioxusLabs/example-projects/tree/master/ecommerce-site)
 - [WiFi Scanner](https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner)
+- [Text Adventure](https://github.com/spideyclick/dioxus-text-adventure) ([demo](https://text-adventure.spideyclick.net/))
 
 ## Libraries & Packages
 
