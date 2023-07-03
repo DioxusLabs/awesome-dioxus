@@ -107,11 +107,8 @@
         "name": "dioxus-layout",
         "description": "Layout components for Dioxus.",
         "category": "Components",
-        "github": {
-            "username": "MAlrusayni",
-            "repo": "dioxus-layout"
-        },
-        "link": null
+        "github": null,
+        "link": "https://gitlab.com/MAlrusayni/dioxus-layout"
     },
     {
         "name": "dioxus-free-icons",
