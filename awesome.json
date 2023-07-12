@@ -131,6 +131,16 @@
         "link": null
     },
     {
+        "name": "Examples Repo",
+        "description": "A repository containing many examples of how to use Dioxus.",
+        "category": "Example",
+        "github": {
+            "username": "DioxusLabs",
+            "repo": "example-projects"
+        },
+        "link": null
+    },
+    {
         "name": "File Navigator Example",
         "description": "Shows how a Dioxus app can directly leverage system calls and libraries.",
         "category": "Example",
