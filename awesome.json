@@ -1,5 +1,25 @@
 [
     {
+        "name": "dioxus-query",
+        "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
+        "category": "Util",
+        "github": {
+            "username": "marc2332",
+            "repo": "dioxus-query"
+        },
+        "link": null
+    },
+    {
+        "name": "dioxus-cheatsheet",
+        "description": "Cheatsheet for Dioxus.",
+        "category": "Example",
+        "github": {
+            "username": "marc2332",
+            "repo": "dioxus-cheatsheet"
+        },
+        "link": null
+    },
+    {
         "name": "dioxus-std",
         "description": "A library to provide abstractions to access common utilities when developing Dioxus applications.",
         "category": "Util",
