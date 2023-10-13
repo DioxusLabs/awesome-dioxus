@@ -192,7 +192,76 @@
         "description": "Secure, encrypted, P2P chat app.",
 		"type": "MadeWith",
         "category": "App",
-        "github": null,
-        "link": "https://github.com/Satellite-im/Uplink"
+        "github": {
+            "username": "satellite-im",
+            "repo": "uplink"
+        },
+        "link": null
+    },
+    {
+        "name": "Ambient",
+        "description": "Multiplayer game engine that runs in the browser",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "ambientrun",
+            "repo": "ambient"
+        },
+        "link": null
+    },
+    {
+        "name": "Ebou",
+        "description": "Cross platform Mastodon Client",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "terhechte",
+            "repo": "ebou"
+        },
+        "link": null
+    },
+    {
+        "name": "Cloak",
+        "description": "Secrets automation for developers",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "purton-tech",
+            "repo": "cloak"
+        },
+        "link": null
+    },
+    {
+        "name": "Freya editor",
+        "description": "Experimental code editor",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "marc2332",
+            "repo": "freya-editor"
+        },
+        "link": null
+    },
+    {
+        "name": "InterSpace",
+        "description": "The graphical interface pipeline visualized",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "erithax",
+            "repo": "interspace"
+        },
+        "link": null
+    },
+    {
+        "name": "Hemi",
+        "description": "Typing tutor for training hands separately",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "kualta",
+            "repo": "hemi"
+        },
+        "link": null
     }
 ]
