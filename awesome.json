@@ -182,8 +182,17 @@
     {
         "name": "WIFI Scanner Example",
         "description": "An example of utilizing background-threads in a desktop Dioxus app.",
+		"type": "Awesome",
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
+    },
+    {
+        "name": "Uplink",
+        "description": "Secure, encrypted, P2P chat app.",
+		"type": "MadeWith",
+        "category": "App",
+        "github": null,
+        "link": "https://github.com/Satellite-im/Uplink"
     }
 ]
