@@ -167,5 +167,15 @@
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
+    },
+    {
+        "name": "Lookbook",
+        "description": "UI preview framework for Dioxus.",
+        "category": "Util",
+        "github": {
+            "username": "matthunz",
+            "repo": "lookbook"
+        },
+        "link": "https://dioxus-material-lookbook.netlify.app"
     }
 ]
