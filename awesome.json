@@ -50,6 +50,16 @@
         "link": null
     },
     {
+        "name": "Nix template for Dioxus Desktop apps",
+        "description": "Project template based on Nix for developing Dioxus Desktop apps with support for macOS, NixOS and other Linuxes",
+        "category": "Deployment",
+        "github": {
+            "username": "srid",
+            "repo": "dioxus-desktop-template"
+        },
+        "link": null
+    },
+    {
         "name": "NixOS Install Script",
         "description": "Fetches necessary dependencies for running Dioxus in desktop mode when using the Nix package manager.",
         "category": "Deployment",
