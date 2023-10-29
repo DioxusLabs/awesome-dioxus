@@ -197,5 +197,15 @@
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
+    },
+    {
+        "name": "A HTML to RSX converter website",
+        "description": "A HTML to RSX converter. Written in Dioxus",
+        "category": "Util",
+        "github": {
+            "username": "PurpleBooth",
+            "repo": "dead-good-html-to-rsx-converter-website"
+        },
+        "link": "https://dead-good-html-to-rsx-converter-web.shuttleapp.rs/"
     }
 ]
