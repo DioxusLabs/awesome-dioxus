@@ -2,6 +2,7 @@
     {
         "name": "dioxus-query",
         "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
+	"type": "Awesome",
         "category": "Util",
         "github": {
             "username": "marc2332",
@@ -12,6 +13,7 @@
     {
         "name": "dioxus-cheatsheet",
         "description": "Cheatsheet for Dioxus.",
+	"type": "Awesome",
         "category": "Example",
         "github": {
             "username": "marc2332",
@@ -77,6 +79,7 @@
     {
         "name": "Nix template for Dioxus Desktop apps",
         "description": "Project template based on Nix for developing Dioxus Desktop apps with support for macOS, NixOS and other Linuxes",
+	"type": "Awesome",
         "category": "Deployment",
         "github": {
             "username": "srid",
@@ -212,7 +215,7 @@
     {
         "name": "WIFI Scanner Example",
         "description": "An example of utilizing background-threads in a desktop Dioxus app.",
-		    "type": "Awesome",
+	"type": "Awesome",
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
@@ -220,7 +223,7 @@
     {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
-		"type": "MadeWith",
+	"type": "MadeWith",
         "category": "App",
         "github": {
             "username": "satellite-im",
