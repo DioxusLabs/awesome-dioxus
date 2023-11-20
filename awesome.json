@@ -1,5 +1,25 @@
 [
     {
+        "name": "dioxus-query",
+        "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
+        "category": "Util",
+        "github": {
+            "username": "marc2332",
+            "repo": "dioxus-query"
+        },
+        "link": null
+    },
+    {
+        "name": "dioxus-cheatsheet",
+        "description": "Cheatsheet for Dioxus.",
+        "category": "Example",
+        "github": {
+            "username": "marc2332",
+            "repo": "dioxus-cheatsheet"
+        },
+        "link": null
+    },
+    {
         "name": "dioxus-std",
         "description": "A library to provide abstractions to access common utilities when developing Dioxus applications.",
         "type": "Awesome",
@@ -51,6 +71,16 @@
         "github": {
             "username": "lucifer1004",
             "repo": "dioxus-vercel-demo"
+        },
+        "link": null
+    },
+    {
+        "name": "Nix template for Dioxus Desktop apps",
+        "description": "Project template based on Nix for developing Dioxus Desktop apps with support for macOS, NixOS and other Linuxes",
+        "category": "Deployment",
+        "github": {
+            "username": "srid",
+            "repo": "dioxus-desktop-template"
         },
         "link": null
     },
@@ -182,7 +212,7 @@
     {
         "name": "WIFI Scanner Example",
         "description": "An example of utilizing background-threads in a desktop Dioxus app.",
-		"type": "Awesome",
+		    "type": "Awesome",
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
@@ -190,7 +220,7 @@
     {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
-		"type": "MadeWith",
+		    "type": "MadeWith",
         "category": "App",
         "github": {
             "username": "satellite-im",
@@ -263,5 +293,16 @@
             "repo": "hemi"
         },
         "link": null
+    },
+    {
+        "name": "Dead-good HTML to RSX converter",
+        "description": "A minimalist HTML to RSX converter website",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "PurpleBooth",
+            "repo": "dead-good-html-to-rsx-converter-website"
+        },
+        "link": "https://dead-good-html-to-rsx-converter-web.shuttleapp.rs/"
     }
 ]
