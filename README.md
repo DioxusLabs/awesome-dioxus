@@ -8,7 +8,7 @@ This repository contains the list of awesome stuff that [Dioxus Awesome](https:/
 
 # Contributing
 
-To add your project, simply copy an existing entry and fill out all the values. It should be clear what most of them mean. There's some enums, so here are their values:
+To add your project, simply copy an existing entry and fill out all the values. It should be clear what most of them mean. `"github"` and `"link"` are optional, but recommended. There's some enums, so here are their values:
 
 - `"type"`:
   - `"Awesome"`: Libraries/tools/or something else that helps developers with making Dioxus projects.
