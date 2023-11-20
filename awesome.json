@@ -220,7 +220,7 @@
     {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
-		    "type": "MadeWith",
+		"type": "MadeWith",
         "category": "App",
         "github": {
             "username": "satellite-im",
