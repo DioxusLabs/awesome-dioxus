@@ -215,15 +215,26 @@
     {
         "name": "WIFI Scanner Example",
         "description": "An example of utilizing background-threads in a desktop Dioxus app.",
-	"type": "Awesome",
+      	"type": "Awesome",
         "category": "Example",
         "github": null,
         "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
     },
     {
+        "name": "Lookbook",
+        "description": "UI preview framework for Dioxus.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "matthunz",
+            "repo": "lookbook"
+        },
+        "link": "https://dioxus-material-lookbook.netlify.app"
+    },
+    {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
-	"type": "MadeWith",
+	      "type": "MadeWith",
         "category": "App",
         "github": {
             "username": "satellite-im",
