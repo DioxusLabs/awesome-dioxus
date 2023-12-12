@@ -318,5 +318,16 @@
             "repo": "dead-good-html-to-rsx-converter-website"
         },
         "link": "https://dead-good-html-to-rsx-converter-web.shuttleapp.rs/"
+    },
+    {
+	"name": "dioxus-toast",
+        "description": "Add toast support for dioxus project.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "mrxiaozhuox",
+            "repo": "dioxus-toast"
+        },
+        "link": null
     }
 ]
