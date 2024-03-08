@@ -4,58 +4,52 @@
 
 A collection of awesome things regarding the Dioxus ecosystem.
 
-- [Community](#community)
-- [Examples](#examples)
-- [Libraries & Packages](#libraries--packages)
-  - [General](#general)
-  - [Network](#network)
-  - [State Management](#state-management)
-  - [Event Call](#event-call)
-  - [Deployment & Installation](#deployment--installation)
-  - [Renderers](#renderers)
+This repository contains the list of awesome stuff that [Dioxus Awesome](https://dioxuslabs.com/awesome) uses.
 
----
+# Contributing
 
-## Community
+To add your project, simply copy an existing entry and fill out all the values. It should be clear what most of them mean. `"github"` and `"link"` are optional, but recommended. There's some enums, so here are their values:
 
-- [Dioxus Discord Channel](https://discord.gg/XgGxMSkvUM)
-- [Dioxus Twitter](https://twitter.com/dioxuslabs)
-- [Dioxus Docs](https://docs.rs/dioxus)
+- `"type"`:
+  - `"Awesome"`: Libraries/tools/or something else that helps developers with making Dioxus projects.
+  - `"MadeWith"`: Real-world apps made with Dioxus. If the primary purpose of the app is aiding Dioxus developers, use `"Awesome"` instead.
+- `"category"`:
+  - `"Misc"`
+  - `"Util"`
+  - `"Logging"`
+  - `"Components"`
+  - `"Example"`
+  - `"Styling"`
+  - `"Deployment"`
+  - `"Renderer"`
+  - `"App"`: Generic category for `"MadeWith"` entries. Not actually displayed at the moment, because all `"MadeWith"` entries have this category.
 
-## Examples
+```rust
+struct Item {
+    name: String,
+    description: String,
+    category: Category,
+    
+    /// Items won't display stars without this.
+    github: Option<GithubInfo>,
 
-- [File Navigator](https://github.com/DioxusLabs/example-projects/tree/master/file-explorer)
-- [TodoMVC](https://github.com/DioxusLabs/example-projects/tree/master/todomvc)
-- [Shopping Site](https://github.com/DioxusLabs/example-projects/tree/master/ecommerce-site)
-- [WiFi Scanner](https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner)
-- [Text Adventure](https://github.com/spideyclick/dioxus-text-adventure) ([demo](https://text-adventure.spideyclick.net/))
+    /// Replaces the auto-generated github link with an external link.
+    link: Option<String>,
+}
 
-## Libraries & Packages
+struct GithubInfo {
+    username: String,
+    repo: String,
+}
 
-## General
-
-- [dioxus-helmet](https://github.com/saicu/dioxus-helmet) : Place elements in the `<head></head>` of your document.
-- [dioxus-layout](https://gitlab.com/MAlrusayni/dioxus-layout) : Layouts components for Dioxus
-- [dioxus-free-icons](https://github.com/nissy-dev/dioxus-free-icons) : Free icon components for Dioxus
-- [dioxus-material-icons](https://github.com/lennartkloock/dioxus-material-icons) : Material Icons for Dioxus
-
-## Network
-
-- [Dioxus Websockets](https://crates.io/crates/dioxus-websocket-hooks) : `Dioxus` hooks for `websocket` connections.
-
-## State Management
-
-- [Fermi](https://dioxuslabs.com/guide/state/fermi.html) : global `state management` for `Dioxus` built on the concept of atoms.
-
-## Event Call
-
-- [Golde](https://github.com/mrxiaozhuox/golde) : use `Dioxus` to execute `Javascript` and get the result. 
-
-## Deployment & Installation
-
-- [Deploy Dioxus to Vercel](https://github.com/lucifer1004/dioxus-vercel-demo)
-- [NixOS installation script](https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc)
-
-## Renderers
-
-- [Freya](https://github.com/marc2332/freya): A Skia renderer for dioxus.
+enum Category {
+    Util,
+    Logging,
+    Components,
+    Example,
+    Styling,
+    Deployment,
+    Renderer,
+    Misc,
+}
+```
