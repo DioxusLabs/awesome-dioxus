@@ -329,5 +329,16 @@
             "repo": "dioxus-toast"
         },
         "link": null
+    },
+    {
+        "name": "Text Adventure",
+        "description": "A text adventure game built with Dioxus web",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "spideyclick",
+            "repo": "dioxus-text-adventure"
+        },
+        "link": "https://text-adventure.spideyclick.net/"
     }
 ]
