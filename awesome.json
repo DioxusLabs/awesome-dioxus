@@ -340,5 +340,16 @@
             "repo": "dioxus-text-adventure"
         },
         "link": "https://text-adventure.spideyclick.net/"
+    },
+    {
+        "name": "Floneum",
+        "description": "A graph editor for local AI workflows",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "floneum",
+            "repo": "floneum"
+        },
+        "link": "https://floneum.com/"
     }
 ]
