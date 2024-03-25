@@ -118,14 +118,6 @@
         "link": null
     },
     {
-        "name": "Fermi",
-        "description": "Global state management built on the concept of atoms.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": null,
-        "link": "https://github.com/DioxusLabs/dioxus/tree/master/packages/fermi"
-    },
-    {
         "name": "dioxus-websocket-hooks",
         "description": "Dioxus hooks for websocket connections.",
         "type": "Awesome",
