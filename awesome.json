@@ -343,5 +343,16 @@
             "repo": "floneum"
         },
         "link": "https://floneum.com/"
+    },
+    {
+        "name": "Dev Widgets",
+        "description": "Collection of useful conversions and widgets implemented as a portable Rust app",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "esimkowitz",
+            "repo": "dev-widgets"
+        },
+        "link": "https://widgets.fyi/"
     }
 ]
