@@ -22,13 +22,13 @@
         "link": null
     },
     {
-        "name": "dioxus-std",
+        "name": "dioxus-sdk",
         "description": "A library to provide abstractions to access common utilities when developing Dioxus applications.",
         "type": "Awesome",
         "category": "Util",
         "github": {
             "username": "DioxusLabs",
-            "repo": "dioxus-std"
+            "repo": "dioxus-sdk"
         },
         "link": null
     },
@@ -45,7 +45,7 @@
     },
     {
         "name": "Geolocation Example",
-        "description": "Dioxus & Dioxus-STD geolocation demonstration.",
+        "description": "Dioxus & Dioxus-SDK geolocation demonstration.",
         "type": "Awesome",
         "category": "Example",
         "github": {
