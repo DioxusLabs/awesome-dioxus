@@ -45,7 +45,7 @@
     },
     {
         "name": "Geolocation Example",
-        "description": "Dioxus & Dioxus-STD geolocation demonstration.",
+        "description": "Dioxus & Dioxus-SDK geolocation demonstration.",
         "type": "Awesome",
         "category": "Example",
         "github": {
