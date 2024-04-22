@@ -365,5 +365,16 @@
             "repo": "dioxus-radio"
         },
         "link": null
+    },
+    {
+        "name": "modx",
+        "description": "A way to handle states with structs in Dioxus",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "tkr-sh",
+            "repo": "modx"
+        },
+        "link": "https://github.com/tkr-sh/modx"
     }
 ]
