@@ -376,5 +376,16 @@
             "repo": "modx"
         },
         "link": "https://github.com/tkr-sh/modx"
+    },
+    {
+        "name": "dioxus-web-component",
+        "description": "Create your HTML custom elements (aka web components) with Dioxus.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "ilaborie",
+            "repo": "dioxus-web-component"
+        },
+        "link": null
     }
 ]
