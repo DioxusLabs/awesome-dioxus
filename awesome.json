@@ -96,6 +96,17 @@
         "link": "https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc"
     },
     {
+        "name": "t5.rs",
+        "description": "Template for developing & deploying cross-platform apps with authentication, database integration and storage using Supabase.",
+        "type": "Awesome",
+        "category": "Deployment",
+        "github": {
+            "username": "albbus-stack",
+            "repo": "t5.rs"
+        },
+        "link": null
+    },
+    {
         "name": "Golde",
         "description": "Use Dioxus to execute JavaScript and get the result.",
         "type": "Awesome",
