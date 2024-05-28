@@ -398,5 +398,16 @@
             "repo": "dioxus-web-component"
         },
         "link": null
+    },
+    {
+        "name": "dioxus-v04-optional-hooks",
+        "description": "Optional futures for Dioxus 0.4.0-0.4.3.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "markcda",
+            "repo": "dioxus-v04-optional-hooks"
+        },
+        "link": null
     }
 ]
