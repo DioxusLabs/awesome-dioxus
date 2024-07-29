@@ -398,5 +398,16 @@
             "repo": "dioxus-web-component"
         },
         "link": null
+    },
+    {
+        "name": "dioxus-chessboard",
+        "description": "A chessboard component built with Dioxus.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "vnermolaev",
+            "repo": "dioxus-chessboard"
+        },
+        "link": null
     }
 ]
