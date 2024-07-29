@@ -1,5 +1,16 @@
 [
     {
+        "name": "daisy-rsx",
+        "description": "A Dioxus version of the Daisy UI components.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "bionic-gpt",
+            "repo": "daisy-rsx"
+        },
+        "link": null
+    },
+    {
         "name": "dioxus-query",
         "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
         "type": "Awesome",
@@ -253,6 +264,17 @@
         "github": {
             "username": "ambientrun",
             "repo": "ambient"
+        },
+        "link": null
+    },
+    {
+        "name": "Bionic GPT",
+        "description": "ChatGPT replacement with a focus on data confidentiality",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "bionic-gpt",
+            "repo": "bionic-gpt"
         },
         "link": null
     },
