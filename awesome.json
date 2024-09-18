@@ -1,435 +1,457 @@
 [
-    {
-        "name": "daisy-rsx",
-        "description": "A Dioxus version of the Daisy UI components.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "bionic-gpt",
-            "repo": "daisy-rsx"
-        },
-        "link": null
+  {
+    "name": "daisy-rsx",
+    "description": "A Dioxus version of the Daisy UI components.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "bionic-gpt",
+      "repo": "daisy-rsx"
     },
-    {
-        "name": "dioxus-query",
-        "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "marc2332",
-            "repo": "dioxus-query"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-query",
+    "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "marc2332",
+      "repo": "dioxus-query"
     },
-    {
-        "name": "dioxus-cheatsheet",
-        "description": "Cheatsheet for Dioxus.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": {
-            "username": "marc2332",
-            "repo": "dioxus-cheatsheet"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-cheatsheet",
+    "description": "Cheatsheet for Dioxus.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": {
+      "username": "marc2332",
+      "repo": "dioxus-cheatsheet"
     },
-    {
-        "name": "dioxus-sdk",
-        "description": "A library to provide abstractions to access common utilities when developing Dioxus applications.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "DioxusLabs",
-            "repo": "sdk"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-sdk",
+    "description": "A library to provide abstractions to access common utilities when developing Dioxus applications.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "DioxusLabs",
+      "repo": "sdk"
     },
-    {
-        "name": "dioxus-logger",
-        "description": "A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile.",
-        "type": "Awesome",
-        "category": "Logging",
-        "github": {
-            "username": "DogeDark",
-            "repo": "dioxus-logger"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-logger",
+    "description": "A logging utility to provide a standard interface whether you're targeting web, desktop, or mobile.",
+    "type": "Awesome",
+    "category": "Logging",
+    "github": {
+      "username": "DogeDark",
+      "repo": "dioxus-logger"
     },
-    {
-        "name": "Geolocation Example",
-        "description": "Dioxus & Dioxus-SDK geolocation demonstration.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": {
-            "username": "DogeDark",
-            "repo": "dioxus-geolocation-example"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Geolocation Example",
+    "description": "Dioxus & Dioxus-SDK geolocation demonstration.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": {
+      "username": "DogeDark",
+      "repo": "dioxus-geolocation-example"
     },
-    {
-        "name": "dioxus-sortable",
-        "description": "Sortable tables for Dioxus.",
-        "type": "Awesome",
-        "category": "Components",
-        "github": {
-            "username": "feral-dot-io",
-            "repo": "dioxus-sortable"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-sortable",
+    "description": "Sortable tables for Dioxus.",
+    "type": "Awesome",
+    "category": "Components",
+    "github": {
+      "username": "feral-dot-io",
+      "repo": "dioxus-sortable"
     },
-    {
-        "name": "Deploy Dioxus to Vercel",
-        "description": "Deploy dioxus-web to Vercel.",
-        "type": "Awesome",
-        "category": "Deployment",
-        "github": {
-            "username": "lucifer1004",
-            "repo": "dioxus-vercel-demo"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Deploy Dioxus to Vercel",
+    "description": "Deploy dioxus-web to Vercel.",
+    "type": "Awesome",
+    "category": "Deployment",
+    "github": {
+      "username": "lucifer1004",
+      "repo": "dioxus-vercel-demo"
     },
-    {
-        "name": "Nix template for Dioxus Desktop apps",
-        "description": "Project template based on Nix for developing Dioxus Desktop apps with support for macOS, NixOS and other Linuxes",
-        "type": "Awesome",
-        "category": "Deployment",
-        "github": {
-            "username": "srid",
-            "repo": "dioxus-desktop-template"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Nix template for Dioxus Desktop apps",
+    "description": "Project template based on Nix for developing Dioxus Desktop apps with support for macOS, NixOS and other Linuxes",
+    "type": "Awesome",
+    "category": "Deployment",
+    "github": {
+      "username": "srid",
+      "repo": "dioxus-desktop-template"
     },
-    {
-        "name": "NixOS Install Script",
-        "description": "Fetches necessary dependencies for running Dioxus in desktop mode when using the Nix package manager.",
-        "type": "Awesome",
-        "category": "Deployment",
-        "github": null,
-        "link": "https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc"
+    "link": null
+  },
+  {
+    "name": "NixOS Install Script",
+    "description": "Fetches necessary dependencies for running Dioxus in desktop mode when using the Nix package manager.",
+    "type": "Awesome",
+    "category": "Deployment",
+    "github": null,
+    "link": "https://gist.github.com/FruitieX/73afe3eb15da45e0e05d5c9cf5d318fc"
+  },
+  {
+    "name": "t5.rs",
+    "description": "Template for developing & deploying cross-platform apps with authentication, database integration and storage using Supabase.",
+    "type": "Awesome",
+    "category": "Deployment",
+    "github": {
+      "username": "albbus-stack",
+      "repo": "t5.rs"
     },
-    {
-        "name": "t5.rs",
-        "description": "Template for developing & deploying cross-platform apps with authentication, database integration and storage using Supabase.",
-        "type": "Awesome",
-        "category": "Deployment",
-        "github": {
-            "username": "albbus-stack",
-            "repo": "t5.rs"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Golde",
+    "description": "Use Dioxus to execute JavaScript and get the result.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "mrxiaozhuox",
+      "repo": "golde"
     },
-    {
-        "name": "Golde",
-        "description": "Use Dioxus to execute JavaScript and get the result.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "mrxiaozhuox",
-            "repo": "golde"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Freya",
+    "description": "A skia renderer for Dioxus.",
+    "type": "Awesome",
+    "category": "Renderer",
+    "github": {
+      "username": "marc2332",
+      "repo": "freya"
     },
-    {
-        "name": "Freya",
-        "description": "A skia renderer for Dioxus.",
-        "type": "Awesome",
-        "category": "Renderer",
-        "github": {
-            "username": "marc2332",
-            "repo": "freya"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-websocket-hooks",
+    "description": "Dioxus hooks for websocket connections.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "FruitieX",
+      "repo": "dioxus-websocket-hooks"
     },
-    {
-        "name": "dioxus-websocket-hooks",
-        "description": "Dioxus hooks for websocket connections.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "FruitieX",
-            "repo": "dioxus-websocket-hooks"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-helmet",
+    "description": "Place elements in the head tag of your document.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "saicu",
+      "repo": "dioxus-helmet"
     },
-    {
-        "name": "dioxus-helmet",
-        "description": "Place elements in the head tag of your document.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "saicu",
-            "repo": "dioxus-helmet"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "dioxus-layout",
+    "description": "Layout components for Dioxus.",
+    "type": "Awesome",
+    "category": "Components",
+    "github": null,
+    "link": "https://gitlab.com/MAlrusayni/dioxus-layout"
+  },
+  {
+    "name": "dioxus-free-icons",
+    "description": "Free icon components for Dioxus.",
+    "type": "Awesome",
+    "category": "Components",
+    "github": {
+      "username": "nissy-dev",
+      "repo": "dioxus-free-icons"
     },
-    {
-        "name": "dioxus-layout",
-        "description": "Layout components for Dioxus.",
-        "type": "Awesome",
-        "category": "Components",
-        "github": null,
-        "link": "https://gitlab.com/MAlrusayni/dioxus-layout"
+    "link": null
+  },
+  {
+    "name": "dioxus-material-icons",
+    "description": "Material icons for Dioxus.",
+    "type": "Awesome",
+    "category": "Components",
+    "github": {
+      "username": "lennartkloock",
+      "repo": "dioxus-material-icons"
     },
-    {
-        "name": "dioxus-free-icons",
-        "description": "Free icon components for Dioxus.",
-        "type": "Awesome",
-        "category": "Components",
-        "github": {
-            "username": "nissy-dev",
-            "repo": "dioxus-free-icons"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Examples Repo",
+    "description": "A repository containing many examples of how to use Dioxus.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": {
+      "username": "DioxusLabs",
+      "repo": "example-projects"
     },
-    {
-        "name": "dioxus-material-icons",
-        "description": "Material icons for Dioxus.",
-        "type": "Awesome",
-        "category": "Components",
-        "github": {
-            "username": "lennartkloock",
-            "repo": "dioxus-material-icons"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "File Navigator Example",
+    "description": "Shows how a Dioxus app can directly leverage system calls and libraries.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": null,
+    "link": "https://github.com/DioxusLabs/example-projects/tree/master/file-explorer"
+  },
+  {
+    "name": "Todo-MVC Example",
+    "description": "An example of a Todo-MVC built with different patterns.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": null,
+    "link": "https://github.com/DioxusLabs/example-projects/tree/master/todomvc"
+  },
+  {
+    "name": "Ecommerce Example",
+    "description": "A liveview app that leverages the FakeStoreAPI and Tailwind.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": null,
+    "link": "https://github.com/DioxusLabs/example-projects/tree/master/ecommerce-site"
+  },
+  {
+    "name": "WIFI Scanner Example",
+    "description": "An example of utilizing background-threads in a desktop Dioxus app.",
+    "type": "Awesome",
+    "category": "Example",
+    "github": null,
+    "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
+  },
+  {
+    "name": "Lookbook",
+    "description": "UI preview framework for Dioxus.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "matthunz",
+      "repo": "lookbook"
     },
-    {
-        "name": "Examples Repo",
-        "description": "A repository containing many examples of how to use Dioxus.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": {
-            "username": "DioxusLabs",
-            "repo": "example-projects"
-        },
-        "link": null
+    "link": "https://dioxus-material-lookbook.netlify.app"
+  },
+  {
+    "name": "Uplink",
+    "description": "Secure, encrypted, P2P chat app.",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "satellite-im",
+      "repo": "uplink"
     },
-    {
-        "name": "File Navigator Example",
-        "description": "Shows how a Dioxus app can directly leverage system calls and libraries.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": null,
-        "link": "https://github.com/DioxusLabs/example-projects/tree/master/file-explorer"
+    "link": null
+  },
+  {
+    "name": "Ambient",
+    "description": "Multiplayer game engine that runs in the browser",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "ambientrun",
+      "repo": "ambient"
     },
-    {
-        "name": "Todo-MVC Example",
-        "description": "An example of a Todo-MVC built with different patterns.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": null,
-        "link": "https://github.com/DioxusLabs/example-projects/tree/master/todomvc"
+    "link": null
+  },
+  {
+    "name": "Bionic GPT",
+    "description": "ChatGPT replacement with a focus on data confidentiality",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "bionic-gpt",
+      "repo": "bionic-gpt"
     },
-    {
-        "name": "Ecommerce Example",
-        "description": "A liveview app that leverages the FakeStoreAPI and Tailwind.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": null,
-        "link": "https://github.com/DioxusLabs/example-projects/tree/master/ecommerce-site"
+    "link": null
+  },
+  {
+    "name": "Ebou",
+    "description": "Cross platform Mastodon Client",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "terhechte",
+      "repo": "ebou"
     },
-    {
-        "name": "WIFI Scanner Example",
-        "description": "An example of utilizing background-threads in a desktop Dioxus app.",
-        "type": "Awesome",
-        "category": "Example",
-        "github": null,
-        "link": "https://github.com/DioxusLabs/example-projects/tree/master/wifi-scanner"
+    "link": null
+  },
+  {
+    "name": "Cloak",
+    "description": "Secrets automation for developers",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "purton-tech",
+      "repo": "cloak"
     },
-    {
-        "name": "Lookbook",
-        "description": "UI preview framework for Dioxus.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "matthunz",
-            "repo": "lookbook"
-        },
-        "link": "https://dioxus-material-lookbook.netlify.app"
+    "link": null
+  },
+  {
+    "name": "Freya editor",
+    "description": "Experimental code editor",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "marc2332",
+      "repo": "freya-editor"
     },
-    {
-        "name": "Uplink",
-        "description": "Secure, encrypted, P2P chat app.",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "satellite-im",
-            "repo": "uplink"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "InterSpace",
+    "description": "The graphical interface pipeline visualized",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "erithax",
+      "repo": "interspace"
     },
-    {
-        "name": "Ambient",
-        "description": "Multiplayer game engine that runs in the browser",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "ambientrun",
-            "repo": "ambient"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Hemi",
+    "description": "Typing tutor for training hands separately",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "kualta",
+      "repo": "hemi"
     },
-    {
-        "name": "Bionic GPT",
-        "description": "ChatGPT replacement with a focus on data confidentiality",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "bionic-gpt",
-            "repo": "bionic-gpt"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Dead-good HTML to RSX converter",
+    "description": "A minimalist HTML to RSX converter website",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "PurpleBooth",
+      "repo": "dead-good-html-to-rsx-converter-website"
     },
-    {
-        "name": "Ebou",
-        "description": "Cross platform Mastodon Client",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "terhechte",
-            "repo": "ebou"
-        },
-        "link": null
+    "link": "https://dead-good-html-to-rsx-converter-web.shuttleapp.rs/"
+  },
+  {
+    "name": "dioxus-toast",
+    "description": "Add toast support for dioxus project.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "mrxiaozhuox",
+      "repo": "dioxus-toast"
     },
-    {
-        "name": "Cloak",
-        "description": "Secrets automation for developers",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "purton-tech",
-            "repo": "cloak"
-        },
-        "link": null
+    "link": null
+  },
+  {
+    "name": "Text Adventure",
+    "description": "A text adventure game built with Dioxus web",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "spideyclick",
+      "repo": "dioxus-text-adventure"
     },
-    {
-        "name": "Freya editor",
-        "description": "Experimental code editor",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "marc2332",
-            "repo": "freya-editor"
-        },
-        "link": null
+    "link": "https://text-adventure.spideyclick.net/"
+  },
+  {
+    "name": "Floneum",
+    "description": "A graph editor for local AI workflows",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "floneum",
+      "repo": "floneum"
     },
-    {
-        "name": "InterSpace",
-        "description": "The graphical interface pipeline visualized",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "erithax",
-            "repo": "interspace"
-        },
-        "link": null
+    "link": "https://floneum.com/"
+  },
+  {
+    "name": "Dev Widgets",
+    "description": "Collection of useful conversions and widgets implemented as a portable Rust app",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "esimkowitz",
+      "repo": "dev-widgets"
     },
-    {
-        "name": "Hemi",
-        "description": "Typing tutor for training hands separately",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "kualta",
-            "repo": "hemi"
-        },
-        "link": null
+    "link": "https://widgets.fyi/"
+  },
+  {
+    "name": "dioxus-radio",
+    "description": "Fully-typed global state management with a topics subscription system for Dioxus.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "dioxus-community",
+      "repo": "dioxus-radio"
     },
-    {
-        "name": "Dead-good HTML to RSX converter",
-        "description": "A minimalist HTML to RSX converter website",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "PurpleBooth",
-            "repo": "dead-good-html-to-rsx-converter-website"
-        },
-        "link": "https://dead-good-html-to-rsx-converter-web.shuttleapp.rs/"
+    "link": null
+  },
+  {
+    "name": "modx",
+    "description": "A way to handle states with structs in Dioxus",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "tkr-sh",
+      "repo": "modx"
     },
-    {
-        "name": "dioxus-toast",
-        "description": "Add toast support for dioxus project.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "mrxiaozhuox",
-            "repo": "dioxus-toast"
-        },
-        "link": null
+    "link": "https://github.com/tkr-sh/modx"
+  },
+  {
+    "name": "dioxus-web-component",
+    "description": "Create your HTML custom elements (aka web components) with Dioxus.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "ilaborie",
+      "repo": "dioxus-web-component"
     },
-    {
-        "name": "Text Adventure",
-        "description": "A text adventure game built with Dioxus web",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "spideyclick",
-            "repo": "dioxus-text-adventure"
-        },
-        "link": "https://text-adventure.spideyclick.net/"
+    "link": null
+  },
+  {
+    "name": "dioxus-chessboard",
+    "description": "A chessboard component built with Dioxus.",
+    "type": "Awesome",
+    "category": "Util",
+    "github": {
+      "username": "vnermolaev",
+      "repo": "dioxus-chessboard"
     },
-    {
-        "name": "Floneum",
-        "description": "A graph editor for local AI workflows",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "floneum",
-            "repo": "floneum"
-        },
-        "link": "https://floneum.com/"
+    "link": null
+  },
+  {
+    "name": "dioxus-aws",
+    "description": "Tools for deploying Dioxus apps to AWS Serverless (AWS Lambda, S3, CloudFront, Route53).",
+    "type": "Awesome",
+    "category": "Deployment",
+    "github": {
+      "username": "hackartists",
+      "repo": "dioxus-aws"
     },
-    {
-        "name": "Dev Widgets",
-        "description": "Collection of useful conversions and widgets implemented as a portable Rust app",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "esimkowitz",
-            "repo": "dev-widgets"
-        },
-        "link": "https://widgets.fyi/"
+    "link": null
+  },
+  {
+    "name": "d.AGIT",
+    "description": "Secure Art Marketplace",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+      "username": "biyard",
+      "repo": "dagit"
     },
-    {
-        "name": "dioxus-radio",
-        "description": "Fully-typed global state management with a topics subscription system for Dioxus.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "dioxus-community",
-            "repo": "dioxus-radio"
-        },
-        "link": null
-    },
-    {
-        "name": "modx",
-        "description": "A way to handle states with structs in Dioxus",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "tkr-sh",
-            "repo": "modx"
-        },
-        "link": "https://github.com/tkr-sh/modx"
-    },
-    {
-        "name": "dioxus-web-component",
-        "description": "Create your HTML custom elements (aka web components) with Dioxus.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "ilaborie",
-            "repo": "dioxus-web-component"
-        },
-        "link": null
-    },
-    {
-        "name": "dioxus-chessboard",
-        "description": "A chessboard component built with Dioxus.",
-        "type": "Awesome",
-        "category": "Util",
-        "github": {
-            "username": "vnermolaev",
-            "repo": "dioxus-chessboard"
-        },
-        "link": null
-    }
+    "link": "https://dagit.club"
+  }
 ]
