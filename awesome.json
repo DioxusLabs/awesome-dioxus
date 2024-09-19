@@ -442,16 +442,5 @@
           "repo": "dioxus-aws"
         },
         "link": null
-    },
-    {
-        "name": "d.AGIT",
-        "description": "Secure Art Marketplace",
-        "type": "MadeWith",
-        "category": "App",
-        "github": {
-            "username": "biyard",
-            "repo": "dagit"
-        },
-        "link": "https://dagit.club"
     }
 ]
