@@ -433,6 +433,17 @@
         "link": null
     },
     {
+        "name": "dioxus-aws",
+        "description": "Tools for deploying Dioxus apps to AWS Serverless (AWS Lambda, S3, CloudFront, Route53).",
+        "type": "Awesome",
+        "category": "Deployment",
+        "github": {
+          "username": "hackartists",
+          "repo": "dioxus-aws"
+        },
+        "link": null
+    },
+    {
         "name": "MyLife Timeline",
         "description": "Visualize how you have spend your time up until now, reflecting on your mortality.",
         "type": "MadeWith",
