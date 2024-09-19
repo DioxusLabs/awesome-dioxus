@@ -453,5 +453,16 @@
             "repo": "mylife"
         },
         "link": "https://mylife.waozi.xyz/"
+    },
+    {
+        "name": "SQLite File Format",
+        "description": "Visual representation of on-disk database file format used by all releases of SQLite since version 3.0.0.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "torymur",
+            "repo": "sqlite-repr"
+        },
+        "link": "https://torymur.github.io/sqlite-repr/"
     }
 ]
