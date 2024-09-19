@@ -431,7 +431,7 @@
             "repo": "dioxus-chessboard"
         },
         "link": null
-    }
+    },
     {
         "name": "dioxus-aws",
         "description": "Tools for deploying Dioxus apps to AWS Serverless (AWS Lambda, S3, CloudFront, Route53).",
