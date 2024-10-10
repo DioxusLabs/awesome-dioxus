@@ -464,5 +464,16 @@
             "repo": "sqlite-repr"
         },
         "link": "https://torymur.github.io/sqlite-repr/"
+    },
+     {
+        "name": "Freyr",
+        "description": "A UI components crate for Dioxus that aims to make building an app easier and beautiful.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "cbdefontenay",
+            "repo": "https://github.com/cbdefontenay/freyr"
+        },
+        "link": "https://docs.rs/freyr/latest/freyr/"
     }
 ]
