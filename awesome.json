@@ -465,7 +465,7 @@
         },
         "link": "https://torymur.github.io/sqlite-repr/"
     },
-     {
+    {
         "name": "Freyr",
         "description": "A UI components crate for Dioxus that aims to make building an app easier and beautiful.",
         "type": "Awesome",
@@ -475,5 +475,16 @@
             "repo": "https://github.com/cbdefontenay/freyr"
         },
         "link": "https://docs.rs/freyr/latest/freyr/"
+    },
+    {
+        "name": "dioxus-oauth",
+        "description": "Tools for OAuth2 authentication in Dioxus web.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+          "username": "biyard",
+          "repo": "dioxus-oauth"
+        },
+        "link": null
     }
 ]
