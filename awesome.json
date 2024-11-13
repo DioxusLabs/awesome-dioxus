@@ -486,5 +486,17 @@
           "repo": "dioxus-oauth"
         },
         "link": null
+    },
+    { 
+        "name": "Biyard Website",
+        "description": "Company website utilizes dioxus 0.6.0-alpha.2 and AWS serverless services with CI/CD",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "biyard",
+            "repo": "homepage"
+        },
+        "link": "https://biyard.co"
     }
+   
 ]
