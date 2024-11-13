@@ -469,10 +469,10 @@
         "name": "Freyr",
         "description": "A UI components crate for Dioxus that aims to make building an app easier and beautiful.",
         "type": "Awesome",
-        "category": "Util",
+        "category": "Components",
         "github": {
             "username": "cbdefontenay",
-            "repo": "https://github.com/cbdefontenay/freyr"
+            "repo": "freyr"
         },
         "link": "https://docs.rs/freyr/latest/freyr/"
     },
