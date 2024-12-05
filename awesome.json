@@ -11,6 +11,17 @@
         "link": null
     },
     {
+        "name": "HTML to RSX Converter",
+        "description": "Convert HTML to RSX for Dioxus. Using dioxus's own dioxus-rsx-rosetta. All credit goes to to the maintainers of Dioxus. This is just a web port of their cli convert feature.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "wheregmis",
+            "repo": "dioxus_html_rsx"
+        },
+        "link": "https://wheregmis.github.io/dioxus_html_rsx/"
+    },
+    {
         "name": "dioxus-query",
         "description": "Fully-typed, async, reusable state management and synchronization for Dioxus.",
         "type": "Awesome",
@@ -438,8 +449,8 @@
         "type": "Awesome",
         "category": "Deployment",
         "github": {
-          "username": "hackartists",
-          "repo": "dioxus-aws"
+            "username": "hackartists",
+            "repo": "dioxus-aws"
         },
         "link": null
     },
@@ -482,12 +493,12 @@
         "type": "Awesome",
         "category": "Util",
         "github": {
-          "username": "biyard",
-          "repo": "dioxus-oauth"
+            "username": "biyard",
+            "repo": "dioxus-oauth"
         },
         "link": null
     },
-    { 
+    {
         "name": "Biyard Website",
         "description": "Company website utilizes dioxus 0.6.0-alpha.2 and AWS serverless services with CI/CD",
         "type": "MadeWith",
@@ -498,5 +509,4 @@
         },
         "link": "https://biyard.co"
     }
-   
 ]
