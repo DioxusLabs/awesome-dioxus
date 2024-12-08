@@ -203,6 +203,17 @@
         "link": null
     },
     {
+        "name": "Lucide Dioxus",
+        "description": "Dioxus port of Lucide, a beautiful & consistent icon toolkit made by the community.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "RustForWeb",
+            "repo": "lucide"
+        },
+        "link": "https://lucide.rustforweb.org/frameworks/dioxus.html"
+    },
+    {
         "name": "Examples Repo",
         "description": "A repository containing many examples of how to use Dioxus.",
         "type": "Awesome",
