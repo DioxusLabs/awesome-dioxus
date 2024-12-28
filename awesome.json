@@ -11,6 +11,17 @@
         "link": null
     },
     {
+        "name": "Dioxus Motion 🚀",
+        "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "wheregmis",
+            "repo": "dioxus-motion"
+        },
+        "link": "https://crates.io/crates/dioxus-motion"
+    },
+    {
         "name": "HTML to RSX Converter",
         "description": "Convert HTML to RSX for Dioxus. Using dioxus's own dioxus-rsx-rosetta. All credit goes to to the maintainers of Dioxus. This is just a web port of their cli convert feature.",
         "type": "Awesome",
