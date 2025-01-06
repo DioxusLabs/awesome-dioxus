@@ -530,5 +530,16 @@
             "repo": "homepage"
         },
         "link": "https://biyard.co"
+    },
+    {
+        "name": "dioxus-translate",
+        "description": "Libraries for internalization on Dioxus",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "biyard",
+            "repo": "democrasee"
+        },
+        "link": "https://github.com/biyard/democrasee/tree/main/packages/dioxus-translate"
     }
 ]
