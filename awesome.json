@@ -11,6 +11,28 @@
         "link": null
     },
     {
+        "name": "Chap-App",
+        "description": "Web IDE for Chap programming language powered by dioxus (client side execution)",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "ali77gh",
+            "repo": "ChapApp"
+        },
+        "link": "https://ali77gh.github.io/ChapApp/"
+    },
+    {
+        "name": "PersianToolsWeb",
+        "description": "Web GUI for rust-persian-tools library",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "ali77gh",
+            "repo": "PersianToolsWeb"
+        },
+        "link": "https://ali77gh.github.io/PersianToolsWeb/"
+    },
+    {
         "name": "Dioxus Motion 🚀",
         "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.",
         "type": "Awesome",
