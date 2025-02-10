@@ -538,9 +538,9 @@
         "category": "Util",
         "github": {
             "username": "biyard",
-            "repo": "dioxus-oauth"
+            "repo": "rust-sdk"
         },
-        "link": "https://github.com/biyard/democrasee/tree/main/packages/dioxus-oauth"
+        "link": "https://github.com/biyard/rust-sdk/tree/main/packages/dioxus-oauth"
     },
     {
         "name": "Biyard Website",
