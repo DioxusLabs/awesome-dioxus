@@ -563,5 +563,16 @@
             "repo": "democrasee"
         },
         "link": "https://github.com/biyard/democrasee/tree/main/packages/dioxus-translate"
+    },
+    {
+        "name": "Save Cloud",
+        "description": "Nintendo 3DS homebrew for game save backup and sync",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "save-cloud",
+            "repo": "save-cloud-3ds"
+        },
+        "link": "https://github.com/save-cloud/save-cloud-3ds/blob/main/README-EN.md"
     }
 ]
