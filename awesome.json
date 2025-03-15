@@ -34,7 +34,7 @@
     },
     {
         "name": "Dioxus Motion 🚀",
-        "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, 和 mobile applications.",
+        "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.",
         "type": "Awesome",
         "category": "Util",
         "github": {
