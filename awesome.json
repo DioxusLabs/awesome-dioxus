@@ -34,7 +34,7 @@
     },
     {
         "name": "Dioxus Motion 🚀",
-        "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.",
+        "description": "A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, 和 mobile applications.",
         "type": "Awesome",
         "category": "Util",
         "github": {
@@ -574,5 +574,16 @@
             "repo": "save-cloud-3ds"
         },
         "link": "https://github.com/save-cloud/save-cloud-3ds/blob/main/README-EN.md"
+    },
+    {
+        "name": "LinkEcho",
+        "description": "Batch replace/restore shortcut icons, personalized custom icon design",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "iKineticate",
+            "repo": "LinkEcho"
+        },
+        "link": "https://github.com/iKineticate/LinkEcho/blob/master/README-en.md"
     }
 ]
