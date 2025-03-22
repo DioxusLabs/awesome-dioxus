@@ -585,5 +585,16 @@
             "repo": "LinkEcho"
         },
         "link": "https://github.com/iKineticate/LinkEcho/blob/master/README-en.md"
+    },
+    {
+        "name": "Supa Dioxus",
+        "description": "Supabase template for quickly getting started with supabase.",
+        "type": "Awesome",
+        "category": "Example",
+        "github": {
+            "username": "SuddenlyHazel",
+            "repo": "supa-dioxus"
+        },
+        "link": "https://github.com/SuddenlyHazel/supa-dioxus"
     }
 ]
