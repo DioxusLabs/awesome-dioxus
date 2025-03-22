@@ -576,6 +576,17 @@
         "link": "https://github.com/save-cloud/save-cloud-3ds/blob/main/README-EN.md"
     },
     {
+        "name": "LinkEcho",
+        "description": "Batch replace/restore shortcut icons, personalized custom icon design",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "iKineticate",
+            "repo": "LinkEcho"
+        },
+        "link": "https://github.com/iKineticate/LinkEcho/blob/master/README-en.md"
+    },
+    {
         "name": "Supa Dioxus",
         "description": "Supabase template for quickly getting started with supabase.",
         "type": "Awesome",
