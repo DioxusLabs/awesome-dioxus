@@ -596,5 +596,18 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "Pslink",
+        "description": "An invitation only short-url service where the short urls are resolved publicly.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "enaut",
+            "repo": "pslink"
+        },
+        link: null,
     }
+
+}
 ]
