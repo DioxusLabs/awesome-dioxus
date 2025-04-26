@@ -606,8 +606,6 @@
             "username": "enaut",
             "repo": "pslink"
         },
-        link: null,
+        "link": null,
     }
-
-}
 ]
