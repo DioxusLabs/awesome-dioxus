@@ -1,5 +1,16 @@
 [
     {
+        "name": "Buup",
+        "description": "Versatile text utility belt (encoding, decoding, formatting, crypto) with a pure Rust core, CLI, and Dioxus Web UI.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "benletchford",
+            "repo": "buup"
+        },
+        "link": "https://buup.io"
+    },
+    {
         "name": "daisy-rsx",
         "description": "A Dioxus version of the Daisy UI components.",
         "type": "Awesome",
