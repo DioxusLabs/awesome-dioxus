@@ -596,5 +596,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "Yet Another PGP Tool",
+        "description": "A simple PGP tool for Linux, MacOS and Windows",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "Hahihula",
+            "repo": "another_pgp_tool"
+        },
+        "link": "https://github.com/Hahihula/another_pgp_tool/"
     }
 ]
