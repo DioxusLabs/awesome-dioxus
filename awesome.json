@@ -11,6 +11,17 @@
         "link": null
     },
     {
+        "name": "hack-portfolio",
+        "description": "Hackable Portfolio Template written in Rust with Dioxus",
+        "type": "Awesome",
+        "category": "Example",
+        "github": {
+            "username": "ifsheldon",
+            "repo": "hack-portfolio"
+        },
+        "link": "https://github.com/ifsheldon/hack-portfolio"
+    },
+    {
         "name": "Chap-App",
         "description": "Web IDE for Chap programming language powered by dioxus (client side execution)",
         "type": "MadeWith",
