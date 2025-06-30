@@ -66,6 +66,17 @@
         "link": null
     },
     {
+        "name": "dioxus-provider",
+        "description": "Effortless, scalable data fetching, caching, and state management for Dioxus apps. Features global providers, intelligent caching, mutations, and composable async operations.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "wheregmis",
+            "repo": "dioxus-provider"
+        },
+        "link": "https://crates.io/crates/dioxus-provider"
+    },
+    {
         "name": "dioxus-cheatsheet",
         "description": "Cheatsheet for Dioxus.",
         "type": "Awesome",
