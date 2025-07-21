@@ -1,5 +1,16 @@
 [
     {
+        "name": "dioxus-use-js",
+        "description": "A macro that generates Rust bindings to JavaScript or TypeScript functions, with compile time checks. No need to use `eval` directly anymore. Works across Web, Desktop, and Mobile — no wasm-bindgen required.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "mcmah309",
+            "repo": "dioxus-use-js"
+        },
+        "link": null
+    },
+    {
         "name": "daisy-rsx",
         "description": "A Dioxus version of the Daisy UI components.",
         "type": "Awesome",
