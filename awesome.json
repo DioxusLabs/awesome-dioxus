@@ -618,5 +618,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "Open SASS",
+        "description": "Framework-agnostic, reusable web components for ANY CSS stack.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "opensass",
+            "repo": "kit"
+        },
+        "link": "https://opensass.org/kit"
     }
 ]
