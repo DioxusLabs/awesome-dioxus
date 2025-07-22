@@ -1,5 +1,16 @@
 [
     {
+        "name": "Lumen Blocks",
+        "description": "A Tailwind-styled components library for Dioxus, inspired by the shadcn/ui project and built on top of the Dioxus Primitives unstyled components library.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "Leaf-Computer",
+            "repo": "lumen-blocks"
+        },
+        "link": "https://lumenblocks.dev"
+    },
+    {
         "name": "dioxus-use-js",
         "description": "A macro that generates Rust bindings to JavaScript or TypeScript functions, with compile time checks. No need to use `eval` directly anymore. Works across Web, Desktop, and Mobile — no wasm-bindgen required.",
         "type": "Awesome",
