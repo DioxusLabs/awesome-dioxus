@@ -280,6 +280,17 @@
         "link": "https://lucide.rustforweb.org/frameworks/dioxus.html"
     },
     {
+        "name": "dioxus-iconify",
+        "description": "CLI tool for importing icons from Iconify icons (material, lucid, heroicons, ...) or from local SVG files, with zero dependency except Dioxus.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "davidB",
+            "repo": "dioxus-iconify"
+        },
+        "link": "https://github.com/davidB/dioxus-iconify/blob/main/README.md"
+    },
+    {
         "name": "Examples Repo",
         "description": "A repository containing many examples of how to use Dioxus.",
         "type": "Awesome",
