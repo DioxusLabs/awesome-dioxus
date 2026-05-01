@@ -1,5 +1,16 @@
 [
     {
+        "name": "Rejection Roulette",
+        "description": "A cross-platform job application (rejection) tracker desktop app.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "Cavenfish",
+            "repo": "RejectionRoulette"
+        },
+        "link": "https://github.com/Cavenfish/RejectionRoulette"
+    },
+    {
         "name": "Xmes",
         "description": "Xmes is an open-source decentralized messenger built on XMTP. No app store, no signup, no central server, no phone number.",
         "type": "MadeWith",
