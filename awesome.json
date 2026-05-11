@@ -1,5 +1,16 @@
 [
     {
+        "name": "FlowFlow",
+        "description": "100% Rust voice notes app for iOS with speech-to-text, RAG chat, auto-tagging, and document import (PDF/DOCX). Built with Dioxus 0.7, LanceDB, SQLite, and rig-core.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "mirkobozzetto",
+            "repo": "flowflow"
+        },
+        "link": null
+    },
+    {
         "name": "Xmes",
         "description": "Xmes is an open-source decentralized messenger built on XMTP. No app store, no signup, no central server, no phone number.",
         "type": "MadeWith",
