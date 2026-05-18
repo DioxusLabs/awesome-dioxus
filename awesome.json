@@ -1,5 +1,16 @@
 [
     {
+        "name": "Kopuz",
+        "description": "Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "Kopuz-org",
+            "repo": "kopuz"
+        },
+        "link": "https://kopuz.temidara.rocks"
+    },
+    {
         "name": "FlowFlow",
         "description": "100% Rust voice notes app for iOS with speech-to-text, RAG chat, auto-tagging, and document import (PDF/DOCX). Built with Dioxus 0.7, LanceDB, SQLite, and rig-core.",
         "type": "MadeWith",
