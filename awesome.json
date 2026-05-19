@@ -673,5 +673,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "Ory Kratos Selfservice SPA",
+        "description": "Self-service UI for Ory Kratos built using Dioxus, TailwindCSS, and daisyUI.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "justins-engineering",
+            "repo": "kratos-selfservice-wasm"
+        },
+        "link": "https://github.com/justins-engineering/kratos-selfservice-wasm"
     }
 ]
