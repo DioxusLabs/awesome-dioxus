@@ -673,5 +673,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "WASM Theme",
+        "description": "A simple rust library to set CSS data-theme on the html element with WASM. Compatible with tailwindcss and daisyUI.",
+        "type": "Awesome",
+        "category": "Styling",
+        "github": {
+            "username": "justins-engineering",
+            "repo": "wasm-theme"
+        },
+        "link": null
     }
 ]
