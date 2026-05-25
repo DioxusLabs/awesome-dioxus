@@ -673,5 +673,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "Finalytics",
+        "description": "Investment Analysis Dashboard Built With Dioxus Fullstack",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "Nnamdi-sys",
+            "repo": "finalytics"
+        },
+        "link": "https://finalytics.rs"
     }
 ]
