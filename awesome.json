@@ -673,5 +673,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "lingora",
+        "description": "Analyze fluent translation file for missing or redundant translations. Check Rust source files for their use of dioxus_i18n::t!, te! and tid! macros.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "nigeleke",
+            "repo": "lingora"
+        },
+        "link": "https://github.com/nigeleke/lingora"
     }
 ]
