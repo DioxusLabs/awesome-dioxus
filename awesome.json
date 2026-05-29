@@ -373,9 +373,9 @@
         "category": "App",
         "github": {
             "username": "aiqubits",
-            "repo": "https://github.com/aiqubits/keycompute"
+            "repo": "keycompute"
         },
-        "link": "https://github.com/aiqubits/keycompute"
+        "link": null
     },    
     {
         "name": "Uplink",
