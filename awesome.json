@@ -695,5 +695,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "dioxus-showcase",
+        "description": "Storybook-style tooling for Dioxus. Annotate your components, run one command, and get a browsable showcase app — or a static website you can deploy anywhere.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "Dodecahedr0x",
+            "repo": "dioxus-showcase"
+        },
+        "link": "https://github.com/Dodecahedr0x/dioxus-showcase"
     }
 ]
