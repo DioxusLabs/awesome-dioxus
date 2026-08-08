@@ -11,6 +11,14 @@
         "link": null
     },
     {
+        "name": "Metapad",
+        "description": "Metapad is a collaborative, browser-based IDE for building digital twins as literate, computable knowledge graphs. Built entirely in Rust with Dioxus, it features a real-time collaborative modeling canvas, an AI assistant, simulation, and API & MCP access.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": null,
+        "link": "https://www.metapad.ai"
+    },
+    {
         "name": "Dioxus UI",
         "description": "Open-source component library for Dioxus, built with Rust.",
         "type": "Awesome",
