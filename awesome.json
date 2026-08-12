@@ -706,5 +706,16 @@
             "repo": "opossum"
         },
         "link": "https://github.com/opossum-labs/opossum"
-    }
+    },
+    {
+    "name": "uchat-app",
+    "description": "A real-time chat application built with Dioxus.",
+    "type": "MadeWith",
+    "category": "App",
+    "github": {
+        "username": "ishaaqziyan",
+        "repo": "Uchat-app"
+    },
+    "link": null
+}
 ]
