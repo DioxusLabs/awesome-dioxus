@@ -1,5 +1,16 @@
 [
     {
+        "name": "COSMolKit Tools",
+        "description": "A browser-based suite of cheminformatics and molecular visualization tools built with Rust, Dioxus, and WebAssembly, with molecular processing running locally without a backend.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "cosmol-studio",
+            "repo": "cosmolkit-tools-web"
+        },
+        "link": "https://tools.cosmol.org/"
+    },
+    {
         "name": "OxDM",
         "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
         "type": "MadeWith",
