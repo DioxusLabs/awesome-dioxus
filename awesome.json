@@ -1,5 +1,82 @@
 [
     {
+        "name": "OxDM",
+        "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "smiti1642",
+            "repo": "oxdm"
+        },
+        "link": null
+    },
+    {
+        "name": "Dioxus UI",
+        "description": "Open-source component library for Dioxus, built with Rust.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "rust-ui",
+            "repo": "dioxus-ui"
+        },
+        "link": "https://dioxus.rust-ui.com"
+    },
+    {
+        "name": "Kopuz",
+        "description": "Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "Kopuz-org",
+            "repo": "kopuz"
+        },
+        "link": "https://kopuz.temidara.rocks"
+    },
+    {
+        "name": "FlowFlow",
+        "description": "100% Rust voice notes app for iOS with speech-to-text, RAG chat, auto-tagging, and document import (PDF/DOCX). Built with Dioxus 0.7, LanceDB, SQLite, and rig-core.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "mirkobozzetto",
+            "repo": "flowflow"
+        },
+        "link": null
+    },
+    {
+        "name": "Xmes",
+        "description": "Xmes is an open-source decentralized messenger built on XMTP. No app store, no signup, no central server, no phone number.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "floscodes",
+            "repo": "xmes"
+        },
+        "link": "https://xmes.org"
+    },
+    {
+        "name": "Lumen Blocks",
+        "description": "A Tailwind-styled components library for Dioxus, inspired by the shadcn/ui project and built on top of the Dioxus Primitives unstyled components library.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "Leaf-Computer",
+            "repo": "lumen-blocks"
+        },
+        "link": "https://lumenblocks.dev"
+    },
+    {
+        "name": "dioxus-use-js",
+        "description": "A macro that generates Rust bindings to JavaScript or TypeScript functions, with compile time checks. No need to use `eval` directly anymore. Works across Web, Desktop, and Mobile — no wasm-bindgen required.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "mcmah309",
+            "repo": "dioxus-use-js"
+        },
+        "link": null
+    },
+    {
         "name": "daisy-rsx",
         "description": "A Dioxus version of the Daisy UI components.",
         "type": "Awesome",
@@ -64,6 +141,17 @@
             "repo": "dioxus-query"
         },
         "link": null
+    },
+    {
+        "name": "dioxus-provider",
+        "description": "Effortless, scalable data fetching, caching, and state management for Dioxus apps. Features global providers, intelligent caching, mutations, and composable async operations.",
+        "type": "Awesome",
+        "category": "Util",
+        "github": {
+            "username": "wheregmis",
+            "repo": "dioxus-provider"
+        },
+        "link": "https://crates.io/crates/dioxus-provider"
     },
     {
         "name": "dioxus-cheatsheet",
@@ -300,6 +388,17 @@
         },
         "link": "https://dioxus-material-lookbook.netlify.app"
     },
+    {
+        "name": "KeyCompute",
+        "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "aiqubits",
+            "repo": "https://github.com/aiqubits/keycompute"
+        },
+        "link": "https://github.com/aiqubits/keycompute"
+    },    
     {
         "name": "Uplink",
         "description": "Secure, encrypted, P2P chat app.",
@@ -607,5 +706,16 @@
             "repo": "kit"
         },
         "link": "https://kit.opensass.org"
+    },
+    {
+        "name": "OPOSSUM",
+        "description": "Open-source Optics Simulation System and Unified Modeler",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "opossum-labs",
+            "repo": "opossum"
+        },
+        "link": "https://github.com/opossum-labs/opossum"
     }
 ]
