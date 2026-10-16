@@ -706,5 +706,16 @@
             "repo": "opossum"
         },
         "link": "https://github.com/opossum-labs/opossum"
+    },
+    {
+        "name": "Counted",
+        "description": "Open-source expense-splitting app (a Tricount alternative) with end-to-end encryption and no account required. One Dioxus 0.7 fullstack codebase for the web, Android and iOS.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "counted-labs",
+            "repo": "counted"
+        },
+        "link": "https://counted.fr"
     }
 ]
