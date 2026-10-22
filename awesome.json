@@ -1,5 +1,16 @@
 [
     {
+        "name": "OpenMacro",
+        "description": "Free, open-source calorie and macro tracker for Android, built with Rust and Dioxus. Features adaptive targets, barcode scanning, recipes, and weight trends.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "SilverCrocus",
+            "repo": "OpenMacro"
+        },
+        "link": null
+    },
+    {
         "name": "OxDM",
         "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
         "type": "MadeWith",
