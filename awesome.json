@@ -1,5 +1,16 @@
 [
     {
+        "name": "Mechvibes",
+        "description": "Mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux.",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "hainguyents13",
+            "repo": "mechvibes"
+        },
+        "link": "https://mechvibes.com"
+    },
+    {
         "name": "OxDM",
         "description": "A cross-platform desktop ONVIF IP camera manager — discovery, live video (MJPEG/RTSP), PTZ, imaging, events, and an ONVIF health check.",
         "type": "MadeWith",
