@@ -706,5 +706,16 @@
             "repo": "opossum"
         },
         "link": "https://github.com/opossum-labs/opossum"
+    },
+    {
+        "name": "dioxus-vercel",
+        "description": "CLI that deploys Dioxus web apps to Vercel. Vercel builds from your repo in about a minute with no token, or deploy from GitHub Actions or your machine.",
+        "type": "Awesome",
+        "category": "Deployment",
+        "github": {
+            "username": "nylla8444",
+            "repo": "dioxus-vercel"
+        },
+        "link": null
     }
 ]
