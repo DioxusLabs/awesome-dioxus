@@ -706,5 +706,15 @@
             "repo": "opossum"
         },
         "link": "https://github.com/opossum-labs/opossum"
+    },
+    {
+        "name": "Plottery",
+        "description": "Generative art engine for pen plotters, with a desktop editor to tweak parameters live",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "TobiasGrothmann",
+            "repo": "plottery"
+        }
     }
 ]
