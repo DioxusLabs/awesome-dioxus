@@ -706,5 +706,16 @@
             "repo": "opossum"
         },
         "link": "https://github.com/opossum-labs/opossum"
+    },
+    {
+        "name": "dioxus-datagrid",
+        "description": "A typed, accessible data grid: sorting, filtering, grouping, editing, virtualization and CSV/Excel export, as headless primitives and styled components for `dx components add`.",
+        "type": "Awesome",
+        "category": "Components",
+        "github": {
+            "username": "dioxus-datagrid",
+            "repo": "dioxus-datagrid"
+        },
+        "link": null
     }
 ]
